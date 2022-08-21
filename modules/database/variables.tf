@@ -1,0 +1,2 @@
+# ------ module/database/variables.tf
+
